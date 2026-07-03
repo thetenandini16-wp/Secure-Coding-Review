@@ -40,7 +40,9 @@ Replace "filename.py"with your actual Python file name.
 
 
 Secure-Coding-Review/
+
 │── filename.py
+
 │── README.md
 
 
@@ -50,11 +52,13 @@ Secure-Coding-Review/
 Secure Login System 
 
 Enter Username: admin
+
 Enter Password: ********
 
 Login Successful!
 
 Welcome, admin.
+
 Access Granted.
 
 Invalid Login
@@ -63,9 +67,11 @@ Invalid Login
 Secure Login System
 
 Enter Username: user
+
 Enter Password: 12345
 
 Invalid Username or Password!
+
 Access Denied.
 
  🔗 Author
